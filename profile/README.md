@@ -10,6 +10,7 @@ HKUST coursework and academic assignments.
 | [ISDN2603-IR-spectroscopy](https://github.com/evnchn-HKUST-academics/ISDN2603-IR-spectroscopy) | ISDN2603 IR Spectroscopy |
 | [ISDN2603-Tensile-Test](https://github.com/evnchn-HKUST-academics/ISDN2603-Tensile-Test) | ISDN2603 Tensile Test |
 | [ISDN2603-UV-VIS-NIR-spectroscopy](https://github.com/evnchn-HKUST-academics/ISDN2603-UV-VIS-NIR-spectroscopy) | ISDN2603 UV-VIS-NIR Spectroscopy |
+| [ISDN2602-MatLab-Companion](https://github.com/evnchn-HKUST-academics/ISDN2602-MatLab-Companion) | ISDN2602 MATLAB Reference Companion |
 | [ISDN2601-Lab8](https://github.com/evnchn-HKUST-academics/ISDN2601-Lab8) | ISDN2601 Lab 8 |
 | [ISDN1011-Arduino-LED](https://github.com/evnchn-HKUST-academics/ISDN1011-Arduino-LED) | ISDN1011 Arduino LED Exercise |
 | [ISDN4001-cylinder-sfm](https://github.com/evnchn-HKUST-academics/ISDN4001-cylinder-sfm) | ISDN4001 Cylinder SfM (Python) |
